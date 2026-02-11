@@ -1,2 +1,2 @@
 # Smart-Labour-Website
-Good Person for project
+A project for efficient labour management.
